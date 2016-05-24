@@ -2,7 +2,7 @@
 
 ## Repro Steps
 ```
-~/code/bundle-check-repro/app
+cd app
 
 2.3.1 in app/ on master
 › git log -n1
